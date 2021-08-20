@@ -67,6 +67,7 @@ footer {
 @media (min-width: 750px) {
   .container {
     display: flex;
+    margin: 10rem auto;
   }
 
   .learn-more {
