@@ -10,7 +10,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
@@ -24,22 +23,21 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./3-col.png)
+![Desktop View](./3-col.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/manoj-jayapprakash/3-col-preview-FEM
+- Live Site URL: https://mjcreations-3col-preview-fem.netlify.app/
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- Grid
 - Flexbox
 
 ## Author
 
 - Frontend Mentor - [@manojmj18](https://www.frontendmentor.io/profile/manojmj18)
-- Twitter - [@manoj_mj18](https://twitter.com/manoj_mj18)
